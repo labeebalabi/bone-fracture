@@ -1,0 +1,39 @@
+#a5 {
+    text-align: center;
+    display: block;
+    font-size: 30px;
+    color: #202072;
+}
+
+#a1 {
+    margin: auto;
+    margin-top: 0px;
+
+    flex: none;
+    width: 400px;
+}
+
+#a2 {
+    position: relative;
+    justify-content: center;
+
+}
+
+#a3 {
+    border: solid;
+    font-weight: 700;
+    padding: 8px 31px;
+
+    border-radius: 8px;
+    letter-spacing: 2px;
+}
+
+#a4 {
+    font-weight: 700;
+    padding: 8px 31px;
+
+
+    border: none;
+    border-radius: 8px;
+    letter-spacing: 2px;
+}
