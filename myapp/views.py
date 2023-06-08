@@ -14,3 +14,6 @@ def home(request):
  form = ImageForm()
  img = Image.objects.last()
  return render(request, 'myapp/home.html', {'img':img, 'form':form})
+
+
+#vaish.qis@gmail.com
